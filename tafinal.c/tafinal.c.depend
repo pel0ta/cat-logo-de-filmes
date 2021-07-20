@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481218088 source:c:\users\aluno\desktop\tafinal.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481396306 source:c:\users\cristina\documents\ufu\ipc\sistema de catalogar filme\tafinal.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
